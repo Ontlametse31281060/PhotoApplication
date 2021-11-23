@@ -15,6 +15,6 @@ namespace ImageUploadDelete.Models
         public string ErrorMessage { get; set; }
         public decimal filesize { get; set; }
 
-
+        
     }
 }
